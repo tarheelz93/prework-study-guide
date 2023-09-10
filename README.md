@@ -3,8 +3,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 This project was about learning to create a study guide for the Coding bootcamp
 I learned how to use HTML, CSS, JavaScript, and Git to help me begin building a webpage.
 This study guide will define terminolgy and allow the user to practice using the new techniques.
